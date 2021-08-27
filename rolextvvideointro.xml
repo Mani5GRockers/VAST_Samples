@@ -2,7 +2,7 @@
   <Ad id="20009" >
     <InLine>
       <AdSystem version="1">iabtechlab</AdSystem>
-      <Error><![CDATA[https://example.com/error]]></Error>
+      <Error><![CDATA[https://telegram.me/Mani5GRockers]]></Error>
       <Extensions>
         <Extension type="iab-Count">
           <total_available>
@@ -10,23 +10,23 @@
           </total_available>
         </Extension>
       </Extensions>
-      <Impression id="Impression-ID"><![CDATA[https://bitly.awslink.in/mani5grockers]]></Impression>
+      <Impression id="Impression-ID"><![CDATA[]]></Impression>
       <Pricing model="cpm" currency="USD">
         <![CDATA[ 25.00 ]]>
       </Pricing>
       <AdServingId>a532d16d-4d7f-4440-bd29-2ec0e693fc89</AdServingId>
       <AdTitle>iabtechlab video ad</AdTitle>
-      <Category authority="https://bitly.awslink.in/mani5grockers">AD CONTENT description category</Category>
+      <Category authority="">AD CONTENT description category</Category>
       <Creatives>
         <Creative id="5480" sequence="1" adId="2447226">
           <Linear>
             <TrackingEvents>
-              <Tracking event="start" ><![CDATA[https://bitly.awslink.in/mani5grockers]]></Tracking>
-              <Tracking event="progress" offset="00:00:10"><![CDATA[https://bitly.awslink.in/mani5grockers]]></Tracking>
-              <Tracking event="firstQuartile"><![CDATA[https://bitly.awslink.in/mani5grockers]]></Tracking>
-              <Tracking event="midpoint"><![CDATA[https://bitly.awslink.in/mani5grockers]]></Tracking>
-              <Tracking event="thirdQuartile"><![CDATA[https://bitly.awslink.in/mani5grockers]]></Tracking>
-              <Tracking event="complete"><![CDATA[https://bitly.awslink.in/mani5grockers]]></Tracking>
+              <Tracking event="start" ><![CDATA[]]></Tracking>
+              <Tracking event="progress" offset="00:00:10"><![CDATA[]]></Tracking>
+              <Tracking event="firstQuartile"><![CDATA[]]></Tracking>
+              <Tracking event="midpoint"><![CDATA[]]></Tracking>
+              <Tracking event="thirdQuartile"><![CDATA[]]></Tracking>
+              <Tracking event="complete"><![CDATA[]]></Tracking>
             </TrackingEvents>
             <Duration>00:00:16</Duration>
             <MediaFiles>
@@ -42,10 +42,10 @@
             </MediaFiles>
             <VideoClicks>
               <ClickTracking>
-                <![CDATA[https://bitly.awslink.in/mani5grockers]]>
+                <![CDATA[]]>
               </ClickTracking>
               <ClickThrough id="blog">
-                <![CDATA[https://bitly.awslink.in/mani5grockers]]>
+                <![CDATA[]]>
               </ClickThrough>
             </VideoClicks>
           </Linear>
